@@ -1,5 +1,5 @@
 {
-    "name": "farmit/tina4php-debug",
+    "name": "tina4stack/tina4php-debug",
     "description": "Tina4 PHP Debug Functionality",
     "license": "MIT",
     "autoload": {
